@@ -3,12 +3,9 @@ html {
   font-family: Helvetica, sans-serif;
 }
 
-.header {
+.header, .NYC {
   background:
-  url("../../resources/images/the-flatiron-building.png")
-}
-
-.header .NYC background {
+  url("../../resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -43,8 +40,6 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background:
-  url("../../resources/images/the-flatiron-building.png")
 }
 
 .footer {
