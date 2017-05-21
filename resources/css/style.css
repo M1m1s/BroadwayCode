@@ -5,7 +5,12 @@ html {
 
 .header {
   background:
-  url("../../resources/images/the-flatiron-building.png") background-repeat: no-repeat; background-size: cover;
+  url("../../resources/images/the-flatiron-building.png")
+}
+
+.header .NYC background {
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .btn {
@@ -39,7 +44,7 @@ p {
   font-weight: bold;
   color: white;
   background:
-  url("../../resources/images/the-flatiron-building.png") background-repeat: no-repeat; background-size: cover;
+  url("../../resources/images/the-flatiron-building.png")
 }
 
 .footer {
